@@ -1,0 +1,29 @@
+# Comando-Siemens-
+Programa para usinagem parametrizada comando siemens
+
+5.4 - Comando SIEMENS
+
+G00 - Avanço rápido
+G0l - Interpolação linear
+G02 - Interpolação circular no sentido horário
+G03 - Interpolação circular no sentido anti-horário
+G04 - Tempo de demora
+G09 - Paradas precisas
+G22 - Coordenadas em raio
+G23 - Coordenadas em diâmetro
+G25 - Limite inferior de rotação
+G26 - Limite superior de rotação
+G33 - Interpolação de roscas com passo constante(passo a passo>
+G40 - Desliga correção do raio da ferramenta
+G41 - Correção do raio da ferramenta à esquerda do contorno
+G42 - Correção do raio da ferramenta à direita do contorno
+G54 a G57 - Deslocamentos ajustáveis de ponto zero
+G70 - Dimensões em polegada
+G71 - Dimensões em milímetro
+G90 - Coordenadas absolutas
+G91 - Coordenadas incrementais
+G94 - Avanço em milímetros por minuto ou graus por minuto
+G95 - Avanço em milímetros por rotação ou polegadas por rotação
+G96 - Velocidade de corte constante
+G97 - Rotação constante (cancela G96)
+
