@@ -9,6 +9,7 @@ G02 - Interpolação circular no sentido horário
 G03 - Interpolação circular no sentido anti-horário
 G04 - Tempo de demora
 G09 - Paradas precisas
+G16 - Para furacões rotacionadas (G91)
 G22 - Coordenadas em raio
 G23 - Coordenadas em diâmetro
 G25 - Limite inferior de rotação
